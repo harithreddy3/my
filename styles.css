@@ -1,0 +1,153 @@
+body{
+margin: 0;
+text-align: center;
+background-color: #DFF6FF;
+
+
+}
+.chillies{
+  float: left;
+  width: 15%;
+  margin-right: 80px;
+
+}
+.botc{
+  position: absolute;
+}
+.topc{
+  position: absolute;
+  left: 900px;
+
+}
+
+
+
+
+h1{
+  font-size: 80px;
+  display: block;
+  font-family: 'Sacramento',cursive;
+  color: #00FFD1;
+  font-weight: lighter;
+}
+
+
+.pro{
+
+  color: #607EAA;
+  text-decoration: underline;
+}
+
+
+.fir{
+  padding-top: 50px;
+  padding-bottom: 100px;
+  position: relative;
+
+  background-color:#DFF6FF;
+  text-align: center;
+  font-family: 'Abyssinica SIL', serif;
+  width: 100%;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.mypic{
+  border-radius: 100%;
+  width: 10%;
+  margin-top: 20px;
+}
+.computer{
+  border-radius: 100%;
+  width: 15%;
+
+  line-height: 2;
+  float: right;
+
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.contact-me{
+  text-align: center;
+  margin: 30px auto;
+}
+.bottom-container{
+  padding-top:  40px ;
+  padding-bottom: 40px;
+  background-color: #00FFD1;
+  text-decoration: none;
+}
+.footer-link{
+  margin:0 40px;
+
+}
+p{
+  font-family: cursive;
+}
+.fa-twitter{
+  margin: auto 50px;
+  text-decoration: none;
+}
+.fa-twitter:hover{
+  color: white;
+}
+.fa-instagram{
+  margin: auto 50px;
+
+}
+.fa-instagram:hover{
+  color: white;
+}
+.end{
+  margin: 20px auto;
+  color: white;
+
+}
+hr{
+  border: dotted grey 6px;
+
+  border-bottom: none;
+  width: 8%;
+
+}
+h2{
+  color: #607EAA;
+
+}
+h3{
+  color: #607EAA;
+
+}
+.p1{
+  margin-bottom: 20px;
+}
